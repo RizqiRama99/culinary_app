@@ -1,0 +1,6 @@
+Error handling pada halaman login tidak bekerja dengan benar,
+saat inputan sudah benar, pesan error yang lama tidak hilang 
+
+
+tambahan, kalo bisa bagian main screen ditambah list view menu paket(udah ada data array menu paket di menu_paket.dart) horizontal scroll
+
